@@ -8,7 +8,6 @@ let numbers = {
 
 
 };
-document.write("numbers");
 /* This code isn't mine but I am going to use it anyway (it is GreenBayRules' at Github)
 
  */
