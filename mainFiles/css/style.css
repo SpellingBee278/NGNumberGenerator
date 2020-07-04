@@ -135,19 +135,6 @@ border-radius: 12px;
     alignment: center;
     box-shadow: #312e2e;
     cursor:pointer ;
+    border-radius: 50%;
     }
-
-    @keyframes diceImg {
-
-        from {border-radius: 12px}
-        to {border-radius: 50%}
-
-    }
-
-{
-
-
-
-
-}
 
